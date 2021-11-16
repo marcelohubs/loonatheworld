@@ -195,7 +195,7 @@ footer{
     content: '';
     height: 2px;
     width: 15%;
-    background: #fcf47e;
+    background: #96246A;
     top: -10px;
   }
   .left .conteudo p{
@@ -219,7 +219,7 @@ footer{
     transition: 0.3s;
   }
   .left .conteudo .social a span:hover{
-    background: #fcf47e;
+    background: #96246A;
   }
   .center .conteudo .fas{
     font-size: 1.4375rem;
@@ -233,7 +233,7 @@ footer{
     cursor: pointer;
   }
   .center .conteudo .fas:hover{
-    background: #fcf47e;
+    background: #96246A;
   }
   .center .conteudo .text{
     font-size: 1.0625rem;
@@ -273,14 +273,14 @@ footer{
     width: 100%;
     border: none;
     outline: none;
-    background: #fcf47e;
+    background: #96246A;
     font-size: 1.0625rem;
     font-weight: 500;
     cursor: pointer;
     transition: .3s;
   }
   .right form .btn button:hover{
-    background: #9e994c;
+    background: #57153e;
   }
   .bottom center{
     padding: 5px;
@@ -291,7 +291,7 @@ footer{
     color: #656565;
   }
   .bottom center a{
-    color: #fcf47e;
+    color: #96246A;
     text-decoration: none;
   }
   .bottom center a:hover{
